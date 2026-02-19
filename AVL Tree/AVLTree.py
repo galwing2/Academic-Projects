@@ -1,11 +1,3 @@
-#username - hoshea
-#id1      - 325320695 
-#name1    - Yuval Hoshea
-#username - galdavid2
-#id2      - 325167831
-#name2    - Gal David
-
-
 """A class represnting a node in an AVL tree"""
 class AVLNode(object):
     """Constructor, you are allowed to add more fields. 
