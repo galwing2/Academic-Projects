@@ -1,2 +1,1 @@
-My academic Projects.
-Other author appearing was my partner in submitting the projects.
+My academic Projects, submitted throughout my first and second years.
